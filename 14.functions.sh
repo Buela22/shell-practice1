@@ -39,4 +39,4 @@ do
     else 
         echo -e "$package already installed ...$Y Skipping $N"
     fi        
-done  
+done
